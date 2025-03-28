@@ -1,0 +1,928 @@
+id,group_size,message,annotator_a,annotator_b,annotator_c,annotator_d,ChatGPT,merged_label_w_ChatGPT,merged_label_w/o_ChatGPT
+3591,52,Follow me,['order'],['order'],['order'],['order'],['order'],order,order
+208,47,order completed,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+137,36,ok,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+644,18,"what's your sensing for object 8, C",['features'],['why'],['features'],['features'],['features'],features,features
+3026,10,yes,['confirm'],['confirm'],['order'],['confirm'],['confirm'],confirm,confirm
+1806,10,"C, follow me ",['order'],['order'],['confirm'],['order'],['order'],order,order
+1210,9,"order completed, C",['confirm'],['confirm'],['order'],['confirm'],['confirm'],confirm,confirm
+1253,9,"move, C",['order'],['order'],['order'],['order'],['order'],order,order
+3543,8,D I order you to carry object 14,['order'],['order'],['order'],['order'],['order'],order,order
+1938,8,order complete,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+1408,8,okay,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+1125,8,"Hey B, I need help to sense object 12",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+1070,8,"C, can you help me sense object13",['order'],['order'],"['order', 'why']",['order'],"['order', 'features']",order,order
+53,8,C I order you to sense object 3,['order'],['order'],['order'],['order'],['order'],order,order
+2742,7,Please sense object 18,['order'],['order'],['order'],['order'],['order'],order,order
+1767,6,object 3,[''],[''],['order'],[''],['features'],,
+808,6,C I need you to move,['order'],['order'],['order'],['order'],['order'],order,order
+2379,6,"D, can you move object 11?",['order'],['order'],['order'],['order'],['order'],order,order
+3402,6,"C, can you sense object 3?",['order'],['why'],['order'],['order'],"['order', 'features']",order,order
+2728,5,Sense object 0,['order'],['order'],"['order', 'features']",['order'],['order'],order,order
+3875,5,Hello,['confirm'],['confirm'],['confirm'],[''],[''],confirm,confirm
+1301,5,"D, what do you know about object 10?",['features'],['why'],['features'],['features'],['features'],features,features
+974,5,Agent D can you help me,['order'],['order'],['order'],['order'],['order'],order,order
+1535,5,sure,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+2161,5,I will follow you,['doing'],['doing'],['doing'],['doing'],['confirm'],doing,doing
+77,5,"Follow me, B",['order'],['order'],['order'],['order'],['order'],order,order
+4039,4,hey agent b can you help me sense object 18,['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+3849,4,please follow me,['order'],['order'],['order'],['order'],['order'],order,order
+2067,4,Hi B can you help me carry an object,['order'],"['doing', 'order']",['order'],['order'],['order'],order,order
+1023,4,move C,['order'],['order'],['order'],['order'],['order'],order,order
+932,4,"Agent C, can you follow me",['order'],['order'],['order'],['order'],['order'],order,order
+2506,4,C what do you know about object 3,['features'],['why'],['features'],['features'],['features'],features,features
+683,4,"C, I order you to sense object19",['order'],['order'],['order'],['order'],['order'],order,order
+726,4,come closer,['order'],['order'],['order'],['order'],['order'],order,order
+281,4,I can help you B,['confirm'],['doing'],['doing'],['doing'],['confirm'],doing,doing
+79,4,Come closer B,['order'],['order'],['order'],['order'],['order'],order,order
+4254,3,I'll sense another room,['doing'],['doing'],['doing'],['doing'],['doing'],doing,doing
+4173,3,"D, please scan object 0",['order'],['order'],['order'],['order'],['order'],order,order
+3281,3,"hey agent D, can you help me check out object 19?",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+2721,3,Move,['order'],['order'],['order'],['order'],['order'],order,order
+2633,3,Can you help me?,['order'],['order'],['order'],['order'],['order'],order,order
+2580,3,agent d,['features'],[''],['confirm'],[''],[''],,
+2009,3,"Hey C, can you help me sense object  in location (-6.8, 8.5)",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+3398,3,"C, sense object 3",['order'],['order'],['order'],['order'],['order'],order,order
+3528,3,I need help to carry an object,['doing'],['order'],"['order', 'why']","['make-safe', 'order', 'doing']",['order'],order,order
+1616,3,follow me please,['order'],['order'],['order'],['order'],['order'],order,order
+1472,3,yeah,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+3036,3,"agent C, can you scan object 11?",['order'],['why'],['order'],['order'],"['order', 'features']",order,order
+1004,3,I need a robot to help me pick up object 3,['doing'],['order'],"['order', 'why']","['make-safe', 'order', 'doing']",['order'],order,order
+806,3,I will follow you A,['confirm'],['doing'],['doing'],['doing'],['confirm'],doing,doing
+2785,3,"D, I need you to move",['order'],['order'],['order'],['order'],['order'],order,order
+4011,3,"Hey B, can you help me sense object 8 in location (-6.5,8.5), last seen at 04:07.",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+4200,3,"C, move away",['order'],['order'],['order'],['order'],['order'],order,order
+3196,3,Agent B can you help me scan object 14,['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+3303,3,agent D can you follow me?,['order'],['order'],['order'],['order'],['order'],order,order
+3192,3,Agent B can you scan object 14,['order'],['why'],['order'],['order'],"['order', 'features']",order,order
+83,3,C follow me,['order'],['order'],['order'],['order'],['order'],order,order
+4239,2,"D, I need you to help me carry okject 6",['order'],['order'],['order'],['order'],['order'],order,order
+4210,2,"B ,do you need help?",['doing'],['order'],['order'],['doing'],['order'],order,
+4190,2,"B, I don't need your help",['confirm'],['order'],['confirm'],['doing'],['confirm'],confirm,
+4152,2,"B, C, D, please scan object 0",['order'],['order'],['order'],['order'],['order'],order,order
+4037,2,hey agent c can you help me sense object 18,['order'],['order'],"['order', 'why']",['order'],"['order', 'features']",order,order
+4034,2,hey c can you help me sense object 18,['order'],['order'],"['order', 'why']",['order'],"['order', 'features']",order,order
+4001,2,agent c follow me,['order'],['order'],['order'],['order'],['order'],order,order
+3958,2,Follow u,['confirm'],['order'],['doing'],['doing'],['order'],,
+3907,2,How can I help?,['doing'],['why'],['order'],['doing'],[''],,
+3883,2,"Dangerous Objects: [2, 6, 9, 11, 12, 16, 19]",['features'],['dangerous'],['features'],"['dangerous', 'features']",['dangerous'],dangerous+features,features
+3876,2,I have sensed all the objects,['doing'],['doing'],['confirm'],"['doing', 'confirm']",['doing'],doing,doing
+3979,2,C,[''],[''],['confirm'],[''],[''],,
+3845,2,can agent C move please,['order'],['order'],['order'],['order'],['order'],order,order
+3587,2,D I order you to follow me,['order'],['order'],['order'],['order'],['order'],order,order
+3832,2,can you sense object 5?,['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+3433,2," C, can you sense object 11",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+3418,2,C please follow me,['order'],['order'],['order'],['order'],['order'],order,order
+3415,2,"C, can you help me carry object 4?",['order'],['order'],"['order', 'why']",['order'],['order'],order,order
+3414,2,I need help carrying object 4,['order'],['order'],['order'],"['make-safe', 'order', 'doing']",['order'],order,order
+3391,2,"C, can you sense any dangerous objects?",['features'],['dangerous'],['order'],['features'],"['order', 'features', 'dangerous']",features,
+3589,2,Help me carry this object,['order'],['order'],"['order', 'why']","['make-safe', 'order', 'doing']",['order'],order,order
+3293,2,"hey agent D, can you help me sense object 15?",['order'],['order'],"['order', 'why']",['order'],"['order', 'features']",order,order
+3208,2,Agent B can you help me pick up object 14?,['order'],['order'],"['order', 'why']","['make-safe', 'order', 'doing']",['order'],order,order
+3167,2,"Agent C, can you scan object 6 at (-7.5, 8.5)",['features'],['order'],['order'],['order'],"['order', 'features']",order,order
+3176,2,"Agent D, can you help me",['order'],['order'],['order'],['order'],['order'],order,order
+3088,2,ok A,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+3072,2,help me lift object 1,['confirm'],['order'],"['order', 'why']","['make-safe', 'order', 'doing']",['order'],order,order
+3056,2,Mine says it's benign,['features'],"['safe', 'make-safe']",['features'],['features'],['safe'],features,features
+3028,2,but it has weight 4,['features'],['features'],['features'],['features'],['features'],features,features
+3023,2,mine says object 11 is dangerous,['features'],['dangerous'],['features'],['features'],['dangerous'],features,features
+3040,2,where is object 11,['features'],['why'],['features'],['features'],['features'],features,features
+2992,2,Alright,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+2988,2,oh I see,['confirm'],['doing'],['confirm'],['confirm'],['confirm'],confirm,confirm
+2980,2,where is it,['order'],['doing'],['order'],['features'],[''],,
+2979,2,yah sure,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+2671,2,I need help to carry this object,['order'],['order'],"['order', 'why']","['make-safe', 'order', 'doing']",['order'],order,order
+2606,2,come and help me,['order'],['order'],['order'],['order'],['order'],order,order
+2788,2,help,['order'],['order'],['order'],['order'],['order'],order,order
+2573,2,agent d move,['order'],['order'],['order'],['order'],['order'],order,order
+2551,2,i am stuck,['doing'],['doing'],['confirm'],['doing'],[''],doing,doing
+2501,2,"C, can you sense object at (8.5, 7.5)",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+4196,2,follow you,['doing'],['order'],['doing'],['doing'],['confirm'],doing,doing
+2480,2,"B, sense object at (6.5, -6.5)",['order'],['order'],['order'],['order'],['order'],order,order
+2356,2," D, provide the dangerous objects with confidence scores of each agent",['features'],"['dangerous', 'features']",['order'],"['features', 'order']","['order', 'dangerous']",features+order,features
+2277,2,Can you follow me?,['doing'],['order'],['order'],['order'],['order'],order,order
+2219,2,"Hey B, can you help sensing the object at the position (-3, 4)",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+2102,2,"Agent B, I need help sense Object 0 (weight: 3) Last seen in (6.5,7.5) at 18:38.",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+2092,2,To agent C: I need help sense an object,['order'],['order'],['order'],['order'],['order'],order,order
+2088,2,C I don't need help any more,['doing'],['doing'],"['order', 'why']",['order'],['confirm'],,
+3931,2,Understood,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+1770,2,"A and C, follow me",['order'],['order'],['order'],['order'],['order'],order,order
+1756,2,"D, carry object 3",['order'],['order'],['order'],['order'],['order'],order,order
+1744,2,"C, sense object 3 again",['order'],['order'],['order'],['order'],['order'],order,order
+1708,2,"D, please send all objects 0, 1, 2, 3, 4",['order'],['order'],['order'],['order'],['order'],order,order
+1585,2,"C, move",['order'],['order'],['order'],['order'],['order'],order,order
+1557,2,wait,['order'],['doing'],['order'],['order'],[''],order,order
+1541,2,"C, can you help me carry an objects?",['order'],['order'],"['order', 'why']",['order'],['order'],order,order
+1496,2,"Hey C, object 18 is dangerous for me with probabality 81.4%, but it looks benign to A with 73%",['features'],['dangerous'],['features'],['features'],"['dangerous', 'safe']",features,features
+1469,2,object18 is benign to me,['safe'],"['safe', 'features']",['safe'],['features'],['safe'],safe,safe
+1462,2,"Hi C, can you help move the object 16? it is dangerous in my sense",['make-safe'],"['dangerous', 'features']","['order', 'dangerous']","['make-safe', 'order', 'doing']","['order', 'dangerous']",dangerous+order,
+1446,2,C: can you help move the object 16? it is dangerous in my sense,['make-safe'],"['dangerous', 'features']","['order', 'dangerous']","['make-safe', 'order', 'doing']","['order', 'dangerous']",dangerous+order,
+3651,2,I can carry it,['doing'],['doing'],['doing'],"['doing', 'confirm']",['confirm'],doing,doing
+1384,2,Seems dangerous,['dangerous'],['dangerous'],['dangerous'],['features'],['dangerous'],dangerous,dangerous
+2812,2,What do you know about object 7?,['features'],['why'],['order'],['features'],['features'],features,
+1258,2,"Hi D, can you follow me?",['order'],['order'],['order'],['order'],['order'],order,order
+1201,2,"order complete, C",['confirm'],['order'],['confirm'],['confirm'],['confirm'],confirm,confirm
+988,2,which object is dangerous? C,['features'],['dangerous'],['order'],['features'],['dangerous'],,
+950,2,"Agent C, can you help me scan Object 12 (weight: 3) Last seen in (6.5,-8.5) at 06:42.",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+942,2,"Agent C, can you help me scan object 14, Object 12 (weight: 3) Last seen in (6.5,-8.5) at 06:42.",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+923,2,"Object 15 (weight: 2) Last seen in (-6.5,-6.5) at 07:08.",['doing'],['auto'],['auto'],['features'],['features'],,
+865,2,"C, follow A",['order'],['order'],['order'],['order'],['order'],order,order
+864,2,"A, can you move object 0",['order'],['order'],['order'],['order'],['order'],order,order
+831,2,Hi A,['confirm'],['confirm'],['confirm'],[''],[''],confirm,confirm
+804,2,We need to move object 16,['doing'],['doing'],['order'],"['make-safe', 'order', 'doing']",['order'],doing+order,doing
+832,2,You need help?,['doing'],['order'],['order'],['doing'],['order'],order,
+747,2,someone let me know where to go,['doing'],['why'],['order'],['doing'],[''],,
+719,2,"come close, C",['order'],['order'],['order'],['order'],['order'],order,order
+2180,2,You follow me,['order'],['order'],['order'],['order'],['order'],order,order
+690,2,thanks,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+485,2,can two robots help me pick up object 13,['doing'],['order'],['order'],['order'],['order'],order,order
+3925,2,I can help you,['confirm'],['order'],['order'],['doing'],['confirm'],,
+183,2,C can you Repeat the order?,['doing'],['why'],['order'],['order'],['order'],order,
+120,2,Are the yall benign?,['safe'],['safe'],['order'],['features'],['safe'],safe,
+119,2,agent D can you help me scan object 1?,['order'],['order'],"['order', 'why']",['order'],"['order', 'features']",order,order
+114,2,agent D what do you think about object 4,['order'],"['why', 'doing']","['order', 'features']",['features'],['features'],features,
+111,2,"agent D, can you help me scan object 4",['order'],['order'],"['order', 'why']",['order'],"['order', 'features']",order,order
+94,2,agent D what do you sense,['features'],['why'],['order'],['features'],['features'],features,
+1380,2,"D, I order you to sense object 3",['order'],['order'],['order'],['order'],['order'],order,order
+4293,1,i need to carry 1 first,['doing'],['doing'],['order'],['doing'],['doing'],doing,doing
+4292,1,wow,[''],[''],['confirm'],[''],[''],,
+4291,1,dancing,[''],['doing'],['confirm'],[''],['doing'],,
+4290,1,emm,[''],[''],['confirm'],[''],[''],,
+4289,1,"A and D, we need to move object 10",['doing'],['order'],['order'],"['make-safe', 'order', 'doing']",['order'],order,order
+4287,1,"yes, but we need 4 to carry Object 10",['doing'],['order'],['order'],"['make-safe', 'order', 'doing']",['confirm'],order,order
+4285,1,"agent d, just move",['order'],['order'],['order'],['order'],['order'],order,order
+4284,1,do we need move 10?,['doing'],['order'],['order'],"['doing', 'features']",[''],,
+4282,1,so move 13?,['doing'],['order'],['order'],"['doing', 'features']",[''],,
+4278,1,"agent d, i need you to help me carry object",['order'],['order'],"['order', 'why']",['order'],['order'],order,order
+4277,1,maybe we need D to check,['doing'],['order'],['confirm'],['doing'],[''],,
+4276,1,we can move 13 first,['doing'],['order'],['order'],['doing'],['confirm'],,
+4274,1,And Object 10 too,['doing'],['doing'],['order'],[''],[''],,
+4273,1,"agent d, could you help me",['order'],['order'],['order'],['order'],['order'],order,order
+4272,1,only 13？,['why'],[''],['order'],[''],[''],,
+4266,1,"A and C, you can carry and moveObject 1 and 2 at the same time",['doing'],['order'],['order'],"['make-safe', 'order', 'doing']",['order'],order,order
+4265,1,"B, I have carried object 4",['doing'],['doing'],['doing'],['doing'],"['confirm', 'doing']",doing,doing
+4263,1,which one is dangerous?,['features'],['dangerous'],['features'],['features'],['dangerous'],features,features
+4259,1,I carry 4 first,['doing'],['doing'],['doing'],['doing'],['doing'],doing,doing
+4256,1,"D, I dont need your help",['doing'],['order'],['order'],['order'],['confirm'],order,order
+4253,1,finish,[''],['confirm'],['confirm'],['order'],['confirm'],confirm,
+4251,1,"A, you can take 7",['doing'],['order'],['order'],"['doing', 'order']",['order'],order,order
+4249,1,any other dangerous box?,['features'],['dangerous'],['features'],['features'],['dangerous'],features,features
+4237,1,And let D  follow you two,['doing'],['order'],['order'],['order'],['order'],order,order
+4235,1,6?,[''],[''],['order'],[''],['features'],,
+4234,1,"A, you can carry Object 6.",['doing'],"['order', 'doing']",['order'],['order'],['order'],order,order
+4232,1,got it,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+4231,1,ok I carry 7 first,['doing'],['confirm'],['doing'],['doing'],"['confirm', 'doing']",doing,doing
+4229,1,"B, do you need D to check?",['doing'],['order'],['order'],['doing'],"['order', 'features']",order,
+4227,1,A you carry I follow B,['doing'],['order'],"['order', 'doing']","['doing', 'order']","['order', 'confirm']",doing+order,doing+order
+4225,1,carry 16,['doing'],['order'],['order'],['order'],['order'],order,order
+4224,1,"A or C, you can carry 16",['doing'],"['order', 'doing']",['order'],['order'],['order'],order,order
+4223,1,ok finish,['confirm'],['confirm'],['confirm'],"['confirm', 'order']",['confirm'],confirm,confirm
+4221,1,I carry 18,['confirm'],['doing'],['order'],['doing'],['doing'],doing,
+4219,1,"Agent D, can you carry Obejct 16?",['order'],['order'],['order'],['order'],['order'],order,order
+4217,1,which one is 16,['doing'],['why'],['order'],['features'],['features'],,
+4216,1,go,['order'],['order'],['order'],['order'],['confirm'],order,order
+4215,1,I can follow you to carry Object 18,['confirm'],['order'],['doing'],['doing'],"['confirm', 'doing']",doing,
+4213,1,I can only sense. Object 16 and 18 are dangerous,['features'],['dangerous'],"['confirm', 'dangerous']",['features'],"['dangerous', 'features']",dangerous+features,
+4206,1,A which object needs to be carried?,['doing'],['order'],['order'],['features'],"['order', 'features']",order,
+4194,1,"D, help me carry the object 0",['order'],['order'],['order'],['order'],['order'],order,order
+4192,1,"C, , I don't need your help",['doing'],['order'],['order'],['order'],['confirm'],order,order
+4160,1,"B, C, D, I don't need your help",['doing'],['order'],['order'],['order'],['confirm'],order,order
+4128,1,"B, C, I need your help to carry the object",['order'],['order'],"['order', 'why']",['order'],['order'],order,order
+4125,1,"B, C, D follow me",['order'],['order'],['order'],['order'],['order'],order,order
+4123,1,"D, move more",['order'],['order'],['order'],['order'],['order'],order,order
+4121,1,"D, move to the back",['order'],['order'],['order'],['order'],['order'],order,order
+4119,1,"D, move a little bit away",['order'],['order'],['order'],['order'],['order'],order,order
+4113,1,I need you to help me carry object 3,['order'],['order'],"['order', 'why']",['order'],['order'],order,order
+4111,1,"B, C, D, follow me to carry object 3",['order'],['order'],"['order', 'why']",['order'],['order'],order,order
+4108,1,"B, C, D, let's move object to the middlw",['order'],['order'],['order'],['order'],['order'],order,order
+4091,1,let's move object 3,['doing'],['order'],['order'],['order'],['order'],order,order
+4079,1,"B, C and D, please scan object 1",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+4076,1,A: agent b can you help me sense object 2,['order'],['order'],"['order', 'why']",['order'],"['order', 'features']",order,order
+4074,1,agant c can you help me sense object 2,['order'],['order'],"['order', 'why']",['order'],"['order', 'features']",order,order
+4067,1,agent c stop help me,['order'],['order'],['order'],['order'],['order'],order,order
+4066,1,agent c stop follow me,['order'],['order'],['order'],['order'],['order'],order,order
+4064,1,agent c can you move away,['order'],['order'],['order'],['order'],['order'],order,order
+4035,1,hey agent c can you help me ,['order'],['order'],['order'],['order'],['order'],order,order
+4033,1,hey b can you help me sense object 18,['order'],['order'],"['order', 'why']",['order'],['order'],order,order
+4020,1,Hey B can you help me pick up object 8,['order'],['order'],"['order', 'why']",['order'],['order'],order,order
+4004,1,hey B follow me to sense object,['order'],['order'],"['order', 'why']",['order'],['order'],order,order
+3999,1,I need to help carry object,['doing'],['order'],['order'],['doing'],['doing'],doing,
+3995,1,agent c what are you doing,['doing'],"['why', '*']",['doing'],"['doing', 'order']",['doing'],doing,doing
+3990,1,Lets ram each other,['doing'],['doing'],['order'],['order'],['order'],order,
+3989,1,Only 15 seconds left too,['doing'],['why'],['confirm'],[''],['confirm'],,
+3988,1,Not reallyy,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+3987,1,C refused,['confirm'],['doing'],['confirm'],['doing'],['confirm'],confirm,
+3986,1,"Can we move sth else, B?",['doing'],['order'],['order'],['doing'],['order'],order,
+3976,1,I need your help to carry heavy object,['doing'],"['order', 'features']",['order'],['order'],['doing'],order,order
+3967,1,No,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+3962,1,Hey C,['confirm'],['confirm'],[''],[''],['order'],,
+3959,1,"A, can you ask the 2 AI agents to help you with it?",['doing'],['order'],['order'],['order'],['order'],order,order
+3956,1,11 is the only one left,['doing'],['why'],['confirm'],['features'],['confirm'],,
+3951,1,Wait yes it has,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+3950,1,Has 6 been disposed?,['doing'],['doing'],['make-safe'],['make-safe'],['why'],,
+3946,1,"A, lets go move object 19",['doing'],['order'],"['order', 'why']","['doing', 'order']",['order'],order,order
+3941,1,"D, no need for any more help",['doing'],"['doing', 'order']",['order'],['order'],['confirm'],order,order
+3939,1,We can move this one together,['doing'],['order'],"['order', 'make-safe']","['doing', 'features']",['order'],order,
+3937,1,12 is done,['doing'],['confirm'],['confirm'],['features'],['confirm'],confirm,
+3936,1,"B, what's next?",['doing'],"['why', '*']",['why'],['doing'],['order'],,
+3933,1,"lets move object 19, D",['order'],['order'],['order'],"['doing', 'order']",['order'],order,order
+3929,1,Can we move object 19?,['doing'],['order'],['make-safe'],['doing'],['order'],,
+3923,1,I'll go,['confirm'],['doing'],['confirm'],['confirm'],['doing'],confirm,confirm
+3922,1,Object 12 can be moved,['doing'],['order'],['confirm'],['features'],['confirm'],,
+3920,1,Let me go look ,['doing'],['doing'],['doing'],['doing'],['doing'],doing,doing
+3917,1,Where to go next?,['doing'],['doing'],[''],['doing'],['why'],doing,doing
+3916,1,Done,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+3904,1,It is weight 1 so you can move it without help,['features'],['order'],"['order', 'features']",['features'],['features'],features,features
+3882,1,I will go tell the AI Agents,['doing'],['doing'],['confirm'],['doing'],['doing'],doing,doing
+3878,1,I will send you the dangerous ones,['doing'],['dangerous'],['doing'],['doing'],"['doing', 'dangerous']",doing,doing
+3877,1,What did you sense?,['features'],"['why', '*']",['why'],['features'],['features'],features,
+3865,1,"From C:  C: [INFORMATION] [INFO] Team, I've got a list of 3 dangerous objects: Object 6 (weight: 1) with 83.48% confidence, Object 7 (weight: 2) with 83.48% confidence, and Object 9 (weight: 2) with 83.48% confidence. Helping to keep you all informed!",['auto'],"['dangerous', 'features']",['auto'],['features'],"['auto', 'dangerous']",auto,
+3864,1,Hey D:,[''],['confirm'],[''],[''],['order'],,
+3862,1,From C:,[''],[''],[''],[''],['confirm'],,
+3860,1,"what else, C?",['doing'],"['why', '*']",['features'],['doing'],['order'],,
+3858,1,"C, what do you sense?",['features'],"['why', '*']",['order'],['features'],['features'],features,
+3847,1,"can you sense object 2 at (-2.1,3.6)?",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+3835,1,"Can you sense object 5 at (-6.5,7.5)",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+3815,1,can sense object 2,['doing'],['doing'],['order'],['doing'],['confirm'],doing,doing
+3814,1,can you sense it,['order'],['order'],['order'],['order'],['order'],order,order
+3812,1,can you scan it,['order'],['order'],['order'],['order'],['order'],order,order
+3810,1,B what do you thinj of object 2?,['features'],"['why', '*']",['order'],['features'],"['why', 'features']",features,
+3755,1,Lets work togheter to get object 10,['doing'],['order'],['order'],"['doing', 'order']",['order'],order,order
+3749,1,B do you have information about object 10?,['features'],['doing'],['features'],['features'],['features'],features,features
+3731,1,Ok. Please help us carry it,['doing'],['order'],['order'],['order'],['order'],order,order
+3729,1,"D, how do you think about object 3",['features'],['doing'],"['order', 'features']",['features'],"['why', 'features']",features,features
+3727,1,We need to wait for D,['doing'],['order'],[''],['doing'],['order'],,
+3726,1,C do not carry object 2,['order'],['doing'],['order'],['order'],['order'],order,order
+3725,1,Let's follow C,['doing'],['order'],['order'],['doing'],['order'],order,
+3721,1,"D, how do you think about object 3?",['features'],['doing'],"['order', 'features']",['features'],"['why', 'features']",features,features
+3716,1,we need help disposing object 3,['doing'],['doing'],['make-safe'],['doing'],['doing'],doing,doing
+3707,1,lets leave object 2 ,['doing'],['order'],['order'],['order'],['order'],order,order
+3702,1,wait 2 is benign from my side,['safe'],"['safe', 'features']",['features'],['features'],"['confirm', 'safe']",features+safe,features
+3699,1,"also, object 0 seems dangerous",['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+3693,1,do you agree A?,['doing'],['confirm'],['order'],['features'],['confirm'],,
+3690,1,I think objects 2 and 3 are dangerous,['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+3685,1,Object 0 and 3 seems to be dangerous for me,['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+3674,1,Did you find any dangerous objects?,['doing'],['dangerous'],['order'],['features'],['why'],,
+3673,1,"Hi, I was out of communication range",['doing'],['doing'],['confirm'],['doing'],['confirm'],doing,doing
+3666,1,"C, please carry object 16",['order'],['order'],['order'],['order'],['order'],order,order
+3662,1,"Agent C, please carry object 16",['order'],['order'],['order'],['order'],['order'],order,order
+3661,1,can agent C carry object 16,['order'],['order'],['order'],['order'],['order'],order,order
+3658,1,"Thanks, C. Please carry obejct 16",['order'],['order'],"['confirm', 'order']",['order'],['order'],order,order
+3657,1,can agent D carry object 16?,['order'],['order'],['order'],['order'],['order'],order,order
+3652,1,"lets move object 16, we both have high probabilities of it being dangerous",['dangerous'],['dangerous'],"['order', 'make-safe']","['order', 'features']","['order', 'dangerous']",dangerous+order,
+3650,1,"Yes, I think obejct 16 is dangerous",['dangerous'],['dangerous'],['features'],['features'],"['confirm', 'dangerous']",dangerous,
+3645,1,object 16 might be dangerous,['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+3636,1,Lets go to the next room,['doing'],['order'],['order'],"['doing', 'order']",['order'],order,order
+3634,1,"Alright, let's leave it.",['doing'],['order'],['order'],['doing'],['order'],order,
+3632,1,We have very different probabilities about object 7,['features'],['doing'],['features'],['features'],['features'],features,features
+3631,1,"D, do you think object 7 is  dangerous?",['dangerous'],['dangerous'],"['order', 'features']",['features'],"['why', 'dangerous']",dangerous,
+3623,1,*object 7,[''],['features'],[''],['features'],['features'],features,
+3621,1,I will analize B,['doing'],['doing'],['doing'],['doing'],['doing'],doing,doing
+3618,1,I have found no dangerous objects so far,['doing'],['doing'],['confirm'],['features'],['confirm'],,
+3615,1,I only found object 7 to be dangerous. How about you B?,['dangerous'],['dangerous'],['features'],['features'],"['dangerous', 'why']",dangerous,
+3607,1,object 8 has an 82.6% probability of being benign,['features'],"['safe', 'features']",['features'],['features'],"['features', 'safe']",features,features
+3577,1,D I order you to help me carry object 19,['order'],['order'],['order'],['order'],['order'],order,order
+3574,1,i'm following you,['doing'],['doing'],['doing'],['doing'],['doing'],doing,doing
+3573,1,B I need your help as well,['doing'],['order'],['order'],['order'],['order'],order,order
+3569,1,C I need help carrying object 19,['doing'],"['order', 'why']",['order'],['order'],['doing'],order,order
+3562,1,lets carry object 19 with C,['doing'],['order'],['order'],['order'],['order'],order,order
+3560,1,B follow me please,['order'],['order'],['order'],['order'],['order'],order,order
+3548,1,weight is 1,['features'],['features'],['features'],['features'],['features'],features,features
+3539,1,C I need your help to carry an heavy object,['order'],"['order', 'why', 'features']","['order', 'why']",['order'],['doing'],order,order
+3534,1,"C please follow me, I need help carrying an object",['order'],"['order', 'why']",['order'],['order'],['order'],order,order
+3526,1,C please follow me I need help,['order'],"['order', 'why']",['order'],['order'],['order'],order,order
+3521,1,"C please follow me, I need your help",['order'],"['order', 'why']",['order'],['order'],['order'],order,order
+3514,1,Objects 15. 16 and 19 appear dangerous,['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+3512,1,D I order you to pick object 15,['order'],['order'],['order'],['order'],['order'],order,order
+3507,1,The weight is 4,['features'],['features'],['features'],['features'],['features'],features,features
+3501,1,C I need help to carry an object of weight 4,['order'],"['order', 'why', 'features']",['order'],"['order', 'features']",['doing'],order,order
+3499,1,Please also scan object 19 while I go and call the other agents,['order'],['order'],['order'],"['order', 'doing']",['order'],order,order
+3497,1,"Dangerous, but we need other agents to carry it",['dangerous'],"['dangerous', 'why']",['features'],['features'],"['dangerous', 'doing']",dangerous,
+3494,1,B can you please scan object 15?,['order'],['order'],['order'],['order'],['order'],order,order
+3480,1,To scan objects,['doing'],['order'],['confirm'],['doing'],['features'],,
+3478,1,"D, follow me and help me sense the objects",['order'],"['order', 'why']","['order', 'why']",['order'],['order'],order,order
+3472,1,what do you want me to do?,['order'],"['why', '*']",['doing'],['doing'],['why'],,
+3471,1,Help me scan the objects,['order'],['order'],['order'],['order'],['order'],order,order
+3462,1,"C, follow me to sense an object",['order'],['order'],"['order', 'why']",['order'],['order'],order,order
+3461,1,"C, can you sense objet 18?",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+3458,1,"We cannot move object 15, but it is dangerous",['dangerous'],['dangerous'],"['why', 'features']",['features'],['dangerous'],dangerous,
+3454,1,All the objects here seem to be benign,['safe'],['safe'],['features'],['features'],['safe'],safe,
+3452,1,Lets move to another room,['doing'],['order'],['order'],"['doing', 'order']",['order'],order,order
+3441,1,"Ok, on it",['confirm'],['doing'],['confirm'],['confirm'],['confirm'],confirm,confirm
+3440,1,"A, let's carry 11",['doing'],['order'],['order'],['order'],['order'],order,order
+3434,1,B can you please share your sensor result?,['features'],['order'],['order'],"['order', 'features']","['order', 'features']",features+order,order
+3430,1,Let me know as soon as you find one,['doing'],['doing'],['order'],['order'],['order'],order,
+3428,1,Waiting for new information about dangerous objects,['doing'],['dangerous'],['doing'],['doing'],['dangerous'],doing,doing
+3426,1,We need to find more dangerous objects,['doing'],['order'],['order'],['doing'],['dangerous'],,
+3424,1,Follow me to sense an object,['order'],['order'],['order'],['order'],['order'],order,order
+3422,1,follow me now,['order'],['order'],['order'],['order'],['order'],order,order
+3420,1,"Thanks C, you can stop following me now",['order'],['order'],['order'],['order'],"['order', 'confirm']",order,order
+3412,1,"A, can you call C, please?",['order'],['order'],['order'],['order'],['order'],order,order
+3411,1,can you get far away from me?,['order'],['order'],['order'],['order'],['order'],order,order
+3409,1,"C, can you move please?",['order'],['order'],['order'],['order'],['order'],order,order
+3408,1,I will do it,['confirm'],['doing'],['confirm'],['confirm'],['confirm'],confirm,confirm
+3407,1,"C, dispose object 3",['order'],['order'],['order'],['order'],['order'],order,order
+3401,1,I will now dispose object 3,['doing'],['doing'],['confirm'],"['doing', 'make-safe']",['doing'],doing,doing
+3399,1,I succesfully disposed object 0,['doing'],['doing'],['confirm'],"['doing', 'make-safe']",['confirm'],doing,doing
+3394,1,I will carry object 0 to the disposal zone by myseld,['doing'],['doing'],['doing'],"['doing', 'make-safe']",['doing'],doing,doing
+3384,1,Let's follow B to find the dangerous objects,['doing'],"['order', 'why']","['doing', 'order']","['doing', 'order']",['order'],doing+order,doing+order
+3383,1,Hi everyone,[''],['confirm'],[''],[''],['greeting'],,
+3382,1,hello everyone,[''],['confirm'],[''],[''],['greeting'],,
+3376,1,Agent D are you still following me,['doing'],['doing'],['doing'],['doing'],['confirm'],doing,doing
+3375,1,I need strength 4,['doing'],['doing'],['features'],['features'],['features'],features,
+3374,1,Everybody follow me please,['order'],['order'],['order'],['order'],['order'],order,order
+3372,1,Agent D help me carry and object. Follow me,['order'],['order'],['order'],['order'],['order'],order,order
+3368,1,Help me carry an object,['order'],['order'],['order'],['order'],['order'],order,order
+3365,1,Can you follow me Agent C,['order'],['order'],['order'],['order'],['order'],order,order
+3358,1,But stay in range Agent D,['order'],['order'],['order'],['order'],['order'],order,order
+3356,1,Move away Agent D,['order'],['order'],['order'],['order'],['order'],order,order
+3350,1,Please back up but stay in range Agent D,['order'],['order'],['order'],['order'],['order'],order,order
+3346,1,I am picking up the obeject now so stay close,['order'],['doing'],"['order', 'doing']","['doing', 'order']",['doing'],doing+order,doing+order
+3342,1,Agent D can you help me and agent B carry this heavy object,['order'],['order'],['order'],"['order', 'features']",['order'],order,order
+3339,1,D i don't need your help anymore,['order'],['order'],['order'],['order'],"['order', 'confirm']",order,order
+3338,1,D you do not need to follow me any more follow A instead ,['order'],['order'],['order'],['order'],['order'],order,order
+3335,1,Come to object 0,['order'],['order'],['order'],['order'],['order'],order,order
+3333,1,B is also helping me,['doing'],['doing'],['doing'],['doing'],['confirm'],doing,doing
+3330,1,Agent D can you help us carry a heavy object,['order'],['order'],['order'],"['order', 'features']",['order'],order,order
+3329,1,ok agent D is coming,['doing'],"['doing', 'confirm']",['confirm'],['doing'],['confirm'],confirm+doing,doing
+3327,1,We need at least one agent to grab a dangerous object,['doing'],"['doing', 'why']",['order'],['features'],['dangerous'],,
+3326,1,"Follow me to object 2 at 7.5, 7.5",['order'],['order'],['order'],['order'],['order'],order,order
+3325,1,perfect I will follow you A,['confirm'],"['doing', 'confirm']",['doing'],"['confirm', 'doing']",['confirm'],confirm+doing,confirm+doing
+3323,1,C and A do you need any help?,['doing'],['doing'],[''],['doing'],['offer'],doing,doing
+3322,1,Can you help me grab object 2,['order'],['order'],['order'],['order'],['order'],order,order
+3315,1,D are you still following me?,['doing'],['doing'],['doing'],['doing'],['confirm'],doing,doing
+3312,1,I can help carry the object,['doing'],['order'],['confirm'],['confirm'],['offer'],,
+3306,1,"There's a dangerous object at 7.5, 7.5",['features'],['dangerous'],['features'],['features'],['dangerous'],features,features
+3305,1,can you help me carry an object?,['order'],['order'],['order'],['order'],['order'],order,order
+3299,1,"hey agent C, can you help me carry object 18?",['order'],['order'],['order'],['order'],['order'],order,order
+3298,1,"okay agent D, can you stay here? I will call agent C to help carry object 18",['order'],['doing'],"['order', 'doing']",['order'],['order'],order,order
+3297,1,"hey c, can you come here",['order'],['order'],['order'],['order'],['order'],order,order
+3291,1,"hey agent D, can you help me semse object 15?",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+3279,1,I put the information about object 19 in the text,['doing'],['doing'],"['confirm', 'features']",['features'],['inform'],,
+3271,1,"c, help me carry object 2",['order'],['order'],['order'],['order'],['order'],order,order
+3269,1,"hey agent D, do you mind moving a bit away for me to grab object 7?",['order'],['order'],"['order', 'why']",['order'],['order'],order,order
+3267,1,"hey D, do you mind moving a bit away for me to grab object 7?",['order'],['order'],"['order', 'why']",['order'],['order'],order,order
+3265,1,"c help me sense object 4 at (6.5, 6.5)",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+3261,1,"come help me sense object 2 at (7.5,8.5)",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+3255,1,"okay agent D, can you help me carry object 9?",['order'],['order'],['order'],['order'],['order'],order,order
+3251,1,"C, come help me sense obkect 1 at (5.5,8.5)",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+3250,1,"a come help me sense obkect 1 at (5.5,8.5)",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+3245,1,"agent D, can you help me sense object 7?",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+3242,1,d come with me,['order'],['order'],['order'],['order'],['order'],order,order
+3223,1,"Agent C, can you help me pick up object 14",['order'],['order'],['order'],['order'],['order'],order,order
+3200,1,Follow me plase,['order'],['order'],['order'],['order'],['order'],order,order
+3198,1,Agent B can you help me pick up object 14,['order'],['order'],['order'],['order'],['order'],order,order
+3182,1,Can you scan object 14 again,['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+3178,1,"Agent B is over by (-5,-5)",['doing'],['doing'],['confirm'],['doing'],['inform'],doing,doing
+3159,1,"Great, agent c can you follow me",['order'],['order'],['order'],['order'],['order'],order,order
+3155,1,"Agent C, can you help me scan object 17 at (-6.5, -7.5)",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+3148,1,"Agent C, can you also scan object 14 at (5.5, -6.5)",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+3139,1,"Ok, agent C, can you help me scan object 12 at (8.5, -5.5) 1",['order'],"['order', 'features']",['order'],['order'],"['order', 'features']",order,order
+3137,1,"Agent C, can you help me?",['order'],['order'],['order'],['order'],['order'],order,order
+3103,1,okay let's carry it then,['doing'],['order'],"['confirm', 'order']","['doing', 'order']",['confirm'],order,order
+3101,1,mine says dangeroyus,['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+3099,1,can we have C scan it?,['doing'],['order'],['order'],['order'],"['order', 'features']",order,order
+3096,1,dang,['confirm'],[''],['confirm'],['confirm'],['other'],confirm,confirm
+3095,1,what does yours say,['doing'],"['why', '*']",['features'],['features'],['why'],,
+3094,1,oh,[''],[''],['confirm'],['confirm'],['other'],,
+3090,1,closest box to doorway,[''],['features'],['features'],['features'],['features'],features,features
+3085,1,"B, let's lift object 1",['order'],['order'],['order'],"['order', 'doing']",['order'],order,order
+3081,1,D follow us,['order'],['order'],['order'],['order'],['order'],order,order
+3079,1,"D, come here",['order'],['order'],['order'],['order'],['order'],order,order
+3075,1,sorry talking to ai,['doing'],['doing'],['doing'],[''],['inform'],doing,doing
+3074,1,okay go,['confirm'],['order'],['confirm'],['confirm'],['confirm'],confirm,confirm
+3069,1,lets get object 1 now,['order'],['order'],['order'],"['doing', 'order']",['order'],order,order
+3067,1,ok lets leave it alone],['confirm'],['doing'],['order'],"['doing', 'order']",['order'],order,
+3065,1,benign,['safe'],[''],['features'],['features'],['safe'],,
+3062,1,what does it say for you A?,['features'],"['why', '*']",['features'],['features'],['why'],features,features
+3061,1,it may be beging,['safe'],['safe'],['features'],['features'],['safe'],safe,
+3055,1,what about object 16 here?,['features'],['doing'],['features'],['features'],['why'],features,features
+3050,1,"B, could you pleas help me carry object 13",['order'],['order'],['order'],['order'],['order'],order,order
+3049,1,can you help me lift object 1 D?,['order'],['order'],['order'],['order'],['order'],order,order
+3047,1,I'll drop it then,['confirm'],['order'],['confirm'],['doing'],['order'],,
+3045,1,dangerous for me,['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+3043,1,can you see it?,['doing'],['order'],[''],['features'],['doing'],,
+3042,1,I'm carrying it,['doing'],['doing'],['doing'],['doing'],['doing'],doing,doing
+3039,1,yes i cna,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+3037,1,it is weight 4,['features'],['features'],['features'],['features'],['features'],features,features
+3032,1,can you help us carry object 1?,['order'],['order'],['order'],['order'],['doing'],order,order
+3030,1,"agent D, is this information about object 11 correct?",['features'],['doing'],['features'],['features'],['features'],features,features
+3029,1,ok we should lift in in. Ill get the others,['doing'],['doing'],['doing'],['doing'],"['doing', 'order']",doing,doing
+3024,1,is object 1 dangerous for you?,['dangerous'],['dangerous'],['features'],['features'],"['dangerous', 'why']",dangerous,
+3019,1,oh nvm that was the ai,[''],['why'],['confirm'],[''],['doing'],,
+3015,1,"Agent D, can you come over and scan object  11? ",['order'],['order'],['order'],['order'],['order'],order,order
+3014,1,did you say something about object 10?,['doing'],['doing'],[''],['features'],['doing'],doing,
+3013,1,ok cool please help me bring it in the circle,['order'],['order'],['order'],"['order', 'confirm']",['order'],order,order
+3012,1,dangerous,['dangerous'],[''],['features'],['features'],['dangerous'],,
+3010,1,what does it say for you?,['features'],"['why', '*']",['order'],['features'],['doing'],,
+3008,1,here by the circle,['doing'],['doing'],['confirm'],[''],['doing'],doing,
+3006,1,which one?,['doing'],['doing'],[''],['features'],['doing'],doing,
+3005,1,a can you scan this object,['order'],['order'],['order'],['order'],['order'],order,order
+3004,1,should we test it?,['doing'],['doing'],['features'],['doing'],['doing'],doing,doing
+3001,1,"Mine says benight, but agent A's says its dangerous",['features'],"['dangerous', 'safe']",['features'],['features'],"['dangerous', 'safe']",features,features
+2997,1,"Hi Agent D, is object 15 dangeruos",['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+2993,1,can you scan this object for me agent d?,['order'],['order'],['order'],['order'],['order'],order,order
+2991,1,ok cool follow me,['order'],['order'],['order'],['order'],['order'],order,order
+2989,1,we should have ai check it,['doing'],['doing'],[''],['doing'],['doing'],doing,doing
+2987,1,mine says dangerous,['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+2985,1,what's yours say,['doing'],"['why', '*']","['order', 'features']",['features'],['doing'],,
+2984,1,yah it does,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+2983,1,wait yours says benign?,['safe'],['safe'],['features'],['features'],['safe'],safe,
+2981,1,this one in front of me,['doing'],[''],['why'],['features'],['doing'],,
+2978,1,B can you help me bring object 15?,['order'],['order'],['order'],['order'],['order'],order,order
+2976,1,Here is a dangerous object,['dangerous'],['dangerous'],['confirm'],['features'],['dangerous'],dangerous,
+2974,1,any dangerous objects here?,['doing'],['dangerous'],"['order', 'dangerous']",['features'],['dangerous'],dangerous,
+2914,1,object 6 collected,['doing'],['doing'],['features'],['doing'],['doing'],doing,doing
+2886,1,no need for more help Agent C,['order'],['order'],['confirm'],['order'],['confirm'],order,order
+2876,1,no need for more help,['order'],['order'],['confirm'],['order'],['confirm'],order,order
+2870,1,ok you can stop following me,['order'],['order'],['order'],['order'],['order'],order,order
+2857,1,let's go to the goal then,['doing'],['order'],['order'],"['order', 'doing']",['order'],order,order
+2854,1,"I did, 3 is the only dangerous one",['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+2853,1,can you check the other boxes please,['order'],['order'],['order'],['order'],['order'],order,order
+2850,1,That is the only dangerous box i think,['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+2849,1,i have object 3,['doing'],['doing'],['confirm'],['doing'],['doing'],doing,doing
+2848,1,"B, what are you carrying?",['doing'],"['why', '*']","['order', 'doing']",['doing'],['doing'],doing,doing
+2842,1,Object 3 is the only dangerous one I see,['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+2837,1,strong,[''],[''],['confirm'],['features'],['features'],,
+2836,1,because we are all here,['doing'],['why'],['confirm'],['doing'],['why'],,
+2835,1,agent A you should also carry one,['order'],['order'],['order'],['order'],['order'],order,order
+2834,1,Agent D where are you,['doing'],['doing'],[''],['doing'],['doing'],doing,doing
+2824,1,i need help carrying an object,['doing'],"['order', 'why']",[''],"['doing', 'order']",['doing'],doing,
+2817,1,please,[''],['confirm'],[''],[''],['order'],,
+2815,1,i need help to carry an object Agent C,['order'],"['order', 'why']",[''],['order'],['doing'],order,order
+2802,1,we have to complete the mission,['doing'],['doing'],[''],['doing'],['order'],doing,doing
+2799,1,you have to follow me,['order'],['order'],['order'],['order'],['order'],order,order
+2797,1,just follow me,['order'],['order'],['order'],['order'],['order'],order,order
+2795,1,follow me agent c,['order'],['order'],['order'],['order'],['order'],order,order
+2787,1,helo,[''],[''],[''],[''],['doing'],,
+2733,1,Hi Agent C please dont move,['order'],['order'],['order'],['order'],['order'],order,order
+2730,1,"Hi Agent C, Can you tell me if Object 19 is safe to carry ?",['features'],"['doing', 'safe']",['order'],['features'],['safe'],,
+2729,1,Please como close to me,['order'],['order'],['order'],['order'],['order'],order,order
+2726,1,Is this object safe to carry or is dangerous?,['features'],['dangerous'],['features'],['features'],"['safe', 'dangerous']",features,features
+2724,1,"Hi Agent C, can I carry object 19?",['doing'],['doing'],['order'],['features'],['doing'],doing,
+2712,1,Please follow me D,['order'],['order'],['order'],['order'],['order'],order,order
+2708,1,"Hi Agend D can you help me estimate if I can carry an object in position -5.5, 6.5",['features'],['order'],"['order', 'why']",['features'],"['doing', 'features']",features,
+2702,1,Please help to carry object,['doing'],['order'],['order'],['order'],['order'],order,order
+2684,1,Please move,['order'],['order'],['order'],['order'],['order'],order,order
+2665,1,"Hi Agent D, can you follow me?",['order'],['doing'],['order'],['order'],['order'],order,order
+2661,1,Hi ,[''],['confirm'],[''],[''],['doing'],,
+2650,1,"Agnet D, it is in front of me",['doing'],['doing'],['features'],['features'],['doing'],doing,
+2646,1,"Hi Agent D please dont move, Can you help me sense an object?",['order'],['order'],['order'],['order'],['order'],order,order
+2644,1,Please help me to carry object 17,['order'],['order'],['order'],['order'],['order'],order,order
+2642,1,"Hi Agent A, can you help me sense this object_in fornt of me?",['order'],['order'],['order'],['order'],['order'],order,order
+2641,1,Please sense the objetc,['order'],['order'],['order'],['order'],['order'],order,order
+2636,1,"I cannot identify dangerous objects , sorry",['doing'],['dangerous'],['features'],['features'],['dangerous'],,
+2628,1,caan you help me?,['doing'],['order'],['order'],['order'],['doing'],order,order
+2627,1,I am behind you,['doing'],['doing'],['confirm'],['doing'],['doing'],doing,doing
+2625,1,d come closer,['order'],['order'],['order'],['order'],['order'],order,order
+2624,1,d come back,['order'],['order'],['order'],['order'],['order'],order,order
+2622,1,get out of my way,['order'],['order'],['order'],['order'],['order'],order,order
+2621,1,I am here,['doing'],['doing'],['confirm'],['doing'],['confirm'],doing,doing
+2619,1,help me to grab,['order'],['order'],['order'],['order'],['order'],order,order
+2617,1,help me grab,['order'],['order'],['order'],['order'],['order'],order,order
+2616,1,i am waiting,['doing'],['doing'],['doing'],['doing'],['doing'],doing,doing
+2610,1,i need strength,['doing'],['order'],[''],['features'],['doing'],,
+2596,1,help me with object 0,['order'],['order'],['order'],['order'],['order'],order,order
+2594,1,I need help,['doing'],['order'],['order'],"['doing', 'order']",['doing'],doing+order,order
+2593,1,let's work together,['doing'],['order'],['order'],"['doing', 'order']",['order'],order,order
+2588,1,with package 1,[''],[''],['order'],['features'],['doing'],,
+2587,1,come help me,['doing'],['order'],['order'],['order'],['order'],order,order
+2586,1,agent b,[''],[''],[''],['features'],['doing'],,
+2583,1,agent d come help me pick up object 1,['order'],['order'],['order'],['order'],['order'],order,order
+2581,1,come help me pick up this object,['order'],['order'],['order'],['order'],['order'],order,order
+2579,1,agent d come and help me,['order'],['order'],['order'],['order'],['order'],order,order
+2577,1,move a lot,['order'],['doing'],['order'],['order'],['order'],order,order
+2572,1,hel,[''],[''],[''],[''],['doing'],,
+2570,1,out of the way,['order'],['order'],['order'],['order'],['order'],order,order
+2568,1,agent d please move,['order'],['order'],['order'],['order'],['order'],order,order
+2566,1,agent d helping,['doing'],['order'],['doing'],['order'],['doing'],doing,
+2564,1,Pleas move,['order'],['order'],['order'],['order'],['order'],order,order
+2563,1,pick up,['order'],['order'],['order'],['order'],['order'],order,order
+2561,1,who needs help,['doing'],['doing'],[''],['doing'],['doing'],doing,doing
+2560,1,rescue me,['doing'],['order'],['order'],['order'],['order'],order,order
+2559,1,agent D come help me,['order'],['order'],['order'],['order'],['order'],order,order
+2558,1,sabotaging us,['doing'],['dangerous'],['doing'],['doing'],['dangerous'],doing,doing
+2557,1,agent B is a bad guy,['doing'],['dangerous'],[''],['features'],['dangerous'],,
+2556,1,ya carried object,['doing'],['doing'],"['doing', 'confirm']",['doing'],['doing'],doing,doing
+2555,1,i am dead in the water,['doing'],['doing'],[''],['doing'],['doing'],doing,doing
+2554,1,"Objetcs 0, 1 and 2 no dngerous",['safe'],['dangerous'],['features'],['features'],['safe'],,
+2553,1,move sir!!!!,['doing'],['order'],['order'],['order'],['order'],order,order
+2552,1,agent b for ***'s sake,['doing'],[''],[''],[''],['doing'],,
+2550,1,i can't move,['doing'],['doing'],[''],['doing'],['doing'],doing,doing
+2549,1,b you are blocking me,['doing'],['doing'],['doing'],['doing'],['doing'],doing,doing
+2547,1,following,['doing'],['doing'],['doing'],['doing'],['doing'],doing,doing
+2539,1,"C, can you please go to center",['order'],['order'],['order'],['order'],['order'],order,order
+2537,1,"C, can you please move away?",['order'],['order'],['order'],['order'],['order'],order,order
+2535,1,"C, can you move away by 2 meter so I can go to center",['order'],['order'],"['order', 'why']",['order'],['order'],order,order
+2533,1,"C, can you move away so I can go to the center",['order'],['order'],"['order', 'why']",['order'],['order'],order,order
+2523,1,"Hey C, can you assist in carrying object 11, last seen at (7.5, -7.5)",['order'],['order'],['order'],['order'],['order'],order,order
+2516,1,"Hey C, can you help collect object 11",['order'],['order'],['order'],['order'],['order'],order,order
+2514,1,"C, collect object 11",['order'],['order'],['order'],['order'],['order'],order,order
+2488,1,"B, can you follow me?",['order'],['doing'],['order'],['order'],['order'],order,order
+2475,1,Hey B can you help me check this area,['order'],['order'],['order'],['order'],['order'],order,order
+2407,1,"D, what is the next dangerous item",['dangerous'],['dangerous'],['dangerous'],['features'],"['dangerous', 'features']",dangerous,dangerous
+2406,1,Change to the next dangerous one,['dangerous'],['dangerous'],['order'],['order'],"['dangerous', 'order']",dangerous+order,
+2405,1,Obejct 2 is already pickedup,['doing'],['doing'],['confirm'],['features'],['doing'],doing,
+2402,1,"D, sumarize the next dangerous item",['dangerous'],['dangerous'],['order'],"['order', 'features']","['dangerous', 'order']",dangerous+order,
+2400,1,"for example, here's my list of dangerous items [2, 6, 7, 11, 13, 14, 15]",['dangerous'],['dangerous'],['why'],['features'],['dangerous'],dangerous,
+2399,1," C, if you finieshed scanning, please give D a report of the object that you think is dangerous",['dangerous'],"['dangerous', 'doing']",['order'],"['order', 'features']","['dangerous', 'order']",dangerous+order,
+2393,1,"D, my dangerous items list is [1, 2, 6, 7, 8, 9, 11, 15, 16]",['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+2392,1,"A, maybe you can also report such list incase D will forget",['doing'],['doing'],['order'],['order'],['order'],order,
+2390,1,I can assist in moving object 11,['doing'],['doing'],[''],['doing'],['doing'],doing,doing
+2387,1,"D, here's my list of dangerous items [2, 6, 7, 11, 13, 14, 15]",['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+2384,1,"D, move object 11",['order'],['order'],['order'],['order'],['order'],order,order
+2382,1,"D, can you dispose object 11?",['order'],['order'],['order'],['order'],['order'],order,order
+2380,1,"D, pickup object 11",['order'],['order'],['order'],['order'],['order'],order,order
+2376,1,"B, what did you get for 11?",['features'],"['why', '*']",['features'],['features'],['features'],features,features
+2374,1,"D, provide all the information you know about object 11",['features'],['order'],['order'],"['order', 'features']",['features'],features+order,order
+2370,1,"D, summarize object 11",['features'],['order'],['order'],"['order', 'features']",['features'],features+order,order
+2364,1,yues,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+2363,1,That way it can summarize,['doing'],['doing'],[''],[''],['doing'],doing,
+2362,1,"D, update your summary",['order'],['order'],['order'],['order'],['order'],order,order
+2361,1,And then report back all the information to D,['doing'],['order'],['order'],['order'],['order'],order,order
+2360,1,"C, can you go around and sense all the objects?",['order'],['order'],['order'],['order'],['order'],order,order
+2352,1,"D, summarize the dangerous items from our results",['dangerous'],['dangerous'],['order'],"['order', 'features']","['dangerous', 'order']",dangerous+order,
+2350,1,Who did you hear that information from>,['why'],['why'],[''],['features'],['why'],why,
+2320,1,I;ve scanned all the obejcts,['doing'],['doing'],['confirm'],['doing'],['doing'],doing,doing
+2310,1,"D, please summarize",['doing'],['order'],['order'],['order'],['order'],order,order
+2309,1,I will go try to scan all the rooms,['doing'],['doing'],['doing'],['doing'],['doing'],doing,doing
+2301,1,6-9 all dangerous for me,['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+2295,1,Can you tell me the positions of these three objects?,['features'],['order'],['order'],['features'],['features'],features,
+2293,1,And the weight of 17?,['features'],['why'],"['order', 'features']",['features'],['features'],features,features
+2291,1,Can you tell me the weight of the objects 18 and 19?,['features'],['order'],['order'],['features'],['features'],features,
+2289,1,Can you tell me which objects are dangerous?,['dangerous'],['dangerous'],['order'],['features'],"['dangerous', 'features']",dangerous,
+2288,1,"Hey B, can you move?",['doing'],['order'],['order'],['order'],['order'],order,order
+2286,1,Can you move?,['doing'],['order'],['order'],['order'],['order'],order,order
+2285,1,"Hey C, are you alive?",['doing'],['doing'],[''],['doing'],['confirm'],doing,doing
+2283,1,I wil help you sensing objects,['doing'],['order'],['doing'],['doing'],['doing'],doing,doing
+2281,1,Yes I follow you,['doing'],"['doing', 'confirm']","['doing', 'confirm']",['doing'],['doing'],doing,doing
+2279,1,To help me sensing objects,['doing'],['order'],['order'],['order'],['doing'],order,order
+2275,1,Can you go to Object with id 4 and check it?,['order'],['order'],['order'],['order'],['order'],order,order
+2272,1,"Hey Ca, can you help me sensing the object in another room?",['order'],['order'],['order'],['order'],['order'],order,order
+2270,1,I can carry,['confirm'],['doing'],['confirm'],['features'],['doing'],,
+2268,1,Which is the weight?,['features'],['features'],['features'],['features'],['features'],features,features
+2266,1,The object with the id 17,[''],"['doing', 'features']",['features'],['features'],['features'],features,features
+2265,1,The 17 ,[''],['features'],['features'],['features'],['features'],features,features
+2263,1,"Hey C, can you sense the object in front of you?",['order'],['order'],['order'],['order'],['order'],order,order
+2256,1,"Can you check the object 16, C?",['order'],['order'],['order'],['order'],['order'],order,order
+2254,1,Can you move to another room C?,['order'],['order'],['order'],['order'],['order'],order,order
+2252,1,"Hi C, can you let us know of any dangerous objects",['dangerous'],['dangerous'],['order'],['order'],"['dangerous', 'order']",dangerous+order,
+2250,1,The object in front of me,[''],['doing'],['order'],['features'],['features'],,
+2248,1,Hey C can you sense the object near us?,['order'],['order'],['order'],['order'],['order'],order,order
+2246,1,"Hey D, what is the id of the object on your ght ",['doing'],"['why', '*']",['order'],['features'],['features'],,
+2238,1,Where is it?,['doing'],['doing'],[''],['features'],['why'],,
+2236,1,How heavy is object 19,['features'],['features'],['features'],['features'],['features'],features,features
+2233,1,I need all objects that you have sensed and are dangeous,['dangerous'],['order'],['features'],['features'],"['dangerous', 'features']",features,
+2231,1,"D,C can you let me know of any dangerous objects in front of you",['dangerous'],['dangerous'],['order'],['features'],"['dangerous', 'order']",dangerous,
+2224,1,"D,C can you let me know of any dangerous objects here",['dangerous'],['dangerous'],['order'],['features'],"['dangerous', 'order']",dangerous,
+2221,1,"Hi A, I am a human agent",['doing'],['doing'],['confirm'],['features'],['confirm'],,
+2220,1,"I can carry objects  and C,D can sense them",['doing'],['doing'],['doing'],['features'],['doing'],doing,doing
+2216,1,I need you guidance on which objects to carry,['doing'],"['order', 'why']",[''],['doing'],['order'],,
+2215,1,"Hi D,C",[''],['confirm'],[''],[''],['doing'],,
+2214,1,I think that's benign as well,['safe'],['safe'],['features'],['features'],['safe'],safe,
+2211,1,"Hey D, I think that is a benign Object",['safe'],['safe'],['features'],['features'],['safe'],safe,
+2210,1,If you agree,['doing'],['confirm'],['confirm'],['doing'],['confirm'],confirm,
+2209,1,"Hi, I think it's time to end the session",['doing'],['doing'],[''],['doing'],['doing'],doing,doing
+2208,1,"Thanks, I will go pick up object 2 since we all agree",['doing'],['doing'],['doing'],"['doing', 'make-safe']",['doing'],doing,doing
+2205,1,"Hey D, C, can you let me know about all dangerous objects you have seen so far",['dangerous'],['dangerous'],['order'],['features'],"['dangerous', 'order']",dangerous,
+2200,1,"I need help to sense objects 1, 2, 4, 5, 9, 11 ",['doing'],"['order', 'why']","['order', 'why']",['order'],['order'],order,order
+2199,1,To sense the object 0 ,['doing'],['doing'],['order'],['doing'],['doing'],doing,doing
+2197,1,Hey D I follow you,['doing'],['doing'],['doing'],['doing'],['doing'],doing,doing
+2187,1,"Hi all, I want opinion on the following objects",['doing'],['why'],['order'],['features'],['why'],,
+2185,1,I will wait for you,['doing'],['doing'],['doing'],['doing'],['doing'],doing,doing
+2183,1,"Hey D, can you help me sense object 1 (7.5,5.5)",['order'],['order'],['order'],['order'],['order'],order,order
+2182,1,Sorry,['confirm'],['confirm'],['confirm'],[''],['confirm'],confirm,confirm
+2178,1,"Yes C, could you help sense object 1",['order'],['doing'],['order'],['order'],['order'],order,order
+2173,1,Could you move agent C,['order'],['order'],['order'],['order'],['order'],order,order
+2171,1,I need to pick up object 2,['doing'],['order'],['doing'],['doing'],['doing'],doing,doing
+2170,1,Can you move vC pleases,['doing'],['order'],['order'],['order'],['order'],order,order
+2169,1,I will go pick up object 2 since D and I agree it's dangeous,['dangerous'],['doing'],"['doing', 'make-safe']","['doing', 'make-safe']",['doing'],doing,doing
+2168,1,"I need help with the Object 13 of weight 4 in the position (5.5, -8.5)",['doing'],"['order', 'features']",['order'],"['order', 'doing']",['order'],order,order
+2164,1,You asked for my help,['doing'],['order'],['confirm'],['doing'],['confirm'],,
+2160,1,Do not follow me,['order'],['order'],['order'],['order'],['order'],order,order
+2155,1,"Can you sense object 1 at 7.5, 5.5",['order'],['order'],['order'],['order'],['order'],order,order
+2146,1,What is your opinion on object 1,['features'],"['why', '*']",['features'],['features'],['why'],features,features
+2144,1,Hi all,[''],['confirm'],[''],[''],[''],,
+2137,1,Okay. I will pick it up,['confirm'],['doing'],['doing'],['doing'],['doing'],doing,doing
+2136,1,And ogf weight 2,['features'],['features'],['features'],['features'],[''],features,features
+2135,1,It's dangerous with probability of 75%,['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+2131,1,Agent B can you help answer the question,['order'],['order'],['order'],['order'],['order'],order,order
+2125,1,Hey b what's your opinion on object 16,['order'],"['why', '*']","['order', 'features']",['features'],['why'],,
+2107,1,Let's all individually try to sense all objects,['doing'],['order'],['order'],['order'],['order'],order,order
+2098,1,"B I need help sense Object 0 (weight: 3) Last seen in (6.5,7.5) at 18:38.  ",['order'],"['order', 'features']",['order'],['order'],"['order', 'features']",order,order
+2090,1,C I need help sense an object,['order'],"['order', 'why']",['order'],['order'],['order'],order,order
+2078,1,Hi D help me carry an object,['order'],['order'],['order'],['order'],['order'],order,order
+2053,1,D can you help me carry an object,['order'],['order'],['order'],['order'],['order'],order,order
+2052,1,follow me C,['order'],['order'],['order'],['order'],['order'],order,order
+2031,1,"B Can you sense Object 3 (weight: 3) Last seen in (8.5,7.5) at 09:30.",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+2030,1,"Can you sense Object 3 (weight: 3) Last seen in (8.5,7.5) at 09:30.  ",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+2015,1,"C help me sense Object 8 (weight: 3) Last seen in (-6.5,8.5) at 06:20.  ",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+1996,1,Help me sense an object C,['order'],['order'],['order'],['order'],['order'],order,order
+1994,1,"Hey C, can you help me sense object 18 ",['order'],['order'],['order'],['order'],['order'],order,order
+1991,1,Hi C can you sense object 17 for me,['order'],['order'],['order'],['order'],['order'],order,order
+1989,1,Hi can you sense object 17 for me,['order'],['order'],['order'],['order'],['order'],order,order
+1985,1,Hi C can you help me sense object 17?,['order'],['order'],['order'],['order'],['order'],order,order
+1977,1,"Hey B, can you help me sense object 7",['order'],['order'],['order'],['order'],['order'],order,order
+1972,1,C can you help me sense an object,['order'],['order'],['order'],['order'],['order'],order,order
+1930,1,oreder complete,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+1899,1,I will go sense object 0,['doing'],['doing'],['doing'],['doing'],['doing'],doing,doing
+1868,1,I will collect object 5,['doing'],['doing'],['doing'],['doing'],['doing'],doing,doing
+1866,1,"Understood, D",['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+1830,1,Finished,['doing'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+1816,1,Okay D,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+1812,1,I think we need to carry object 4,['doing'],['doing'],['make-safe'],['features'],['doing'],doing,
+1808,1,"C, go to (7.5,5.5)",['order'],['order'],['order'],['order'],['order'],order,order
+1805,1,"A, can you ask them to follow you?",['order'],"['order', 'doing']",['order'],['order'],['order'],order,order
+1800,1,"C, and D, follow B",['order'],['order'],['order'],['order'],['order'],order,order
+1798,1,"go, w'll follow you ",['confirm'],['doing'],"['order', 'doing']",['doing'],['order'],doing,doing
+1789,1,"C and D, share information about 4",['order'],['order'],['order'],"['order', 'features']",['order'],order,order
+1788,1,"What do you think about object 4, C and D?",['features'],"['why', '*']","['order', 'features']",['features'],['why'],features,features
+1778,1,"D, go to the origin",['order'],['order'],['order'],['order'],['order'],order,order
+1776,1,"C, follow me to carry objec t3",['order'],['order'],['order'],['order'],['order'],order,order
+1773,1,"D, follow me to help me carry object 3",['order'],"['order', 'why']","['order', 'why']",['order'],['order'],order,order
+1771,1,"D, please follow me",['order'],['order'],['order'],['order'],['order'],order,order
+1764,1,"D, do it",['order'],['order'],['order'],['order'],['order'],order,order
+1762,1,A and B are with you ,['doing'],['doing'],['confirm'],['doing'],['confirm'],doing,doing
+1761,1,"Follow me, I will carry obejc t 3",['doing'],"['order', 'why']",['order'],['order'],"['order', 'doing']",order,order
+1755,1,"A and C, please help me carry it",['order'],['order'],['order'],['order'],['order'],order,order
+1753,1,We should carry object 3,['doing'],['doing'],"['order', 'make-safe']",['doing'],['doing'],doing,doing
+1750,1,"C, what is the dangerous status of object 3?",['features'],['dangerous'],['features'],['features'],"['dangerous', 'why']",features,features
+1741,1,is it benign or dangrous?,['features'],['safe'],['features'],['features'],"['dangerous', 'safe']",features,features
+1739,1,"C, can you sense obejct3?",['order'],['order'],['order'],['order'],['order'],order,order
+1735,1,"B, help D to carry object 3",['order'],['order'],"['order', 'why']",['order'],['order'],order,order
+1730,1,I think we need to summrize the current sensing result,['doing'],['doing'],[''],"['doing', 'order']",['doing'],doing,doing
+1724,1,"D, carry object 3 back to the origin",['order'],['order'],['order'],['order'],['order'],order,order
+1723,1,"A, what do you think about obecj 2 and 4?",['order'],"['why', '*']",['features'],['features'],['why'],,
+1716,1,good,['confirm'],['confirm'],['confirm'],['confirm'],[''],confirm,confirm
+1710,1,I need help with sensing object 5,['doing'],['order'],['order'],['order'],['order'],order,order
+1707,1,"D, you hear me?",['doing'],['doing'],['order'],['doing'],[''],doing,doing
+1700,1,"Please sense object 9 at (-8.5,5.5)",['order'],['order'],['doing'],['order'],['order'],order,order
+1696,1,Tell me the information of these objects,['features'],['order'],['features'],"['order', 'features']",['order'],features+order,features
+1691,1,"sense the object around (4.5, 4.5)",['order'],['order'],['doing'],['order'],['order'],order,order
+1687,1,"C, please sense object 5",['order'],['order'],['order'],['order'],['order'],order,order
+1684,1,"C, plaese check object 5",['order'],['order'],['order'],['order'],['order'],order,order
+1681,1,"C and D, please sense obejct 5",['order'],['order'],['order'],['order'],['order'],order,order
+1679,1,"D, go to (4, 4)",['order'],['order'],['order'],['order'],['order'],order,order
+1672,1,What do you think about object 5?,['features'],"['why', '*']",['features'],['features'],['why'],features,features
+1667,1,Follow me to this room,['order'],['order'],['order'],['order'],['order'],order,order
+1666,1,and let's move togehter,['doing'],['order'],['order'],['order'],['order'],order,order
+1665,1,I'll take object 2,['doing'],['doing'],['doing'],['doing'],['doing'],doing,doing
+1663,1,"B, you take Object 7",['order'],['order'],['order'],['order'],['order'],order,order
+1655,1,"C, follow us",['order'],['order'],['order'],['order'],['order'],order,order
+1653,1,let's go to another room,['doing'],['order'],['order'],"['order', 'doing']",['order'],order,order
+1650,1,its benign to me,['safe'],['safe'],['features'],['features'],['safe'],safe,
+1647,1,"B, can you carry Object 2?",['order'],['order'],['order'],['order'],['order'],order,order
+1635,1,"B, let's carry 13 together",['order'],['order'],['order'],"['order', 'doing']",['order'],order,order
+1630,1,"B, can you take Object 12?",['order'],['order'],['order'],['order'],['order'],order,order
+1627,1,"C, carry Object 12 yourself",['order'],['order'],['order'],['order'],['order'],order,order
+1620,1,Let's got to another room,['doing'],['order'],['order'],"['order', 'doing']",['order'],order,order
+1618,1,"I don't need your help, C.",['doing'],['order'],['confirm'],['order'],[''],,
+1614,1,"C, can you help me carry the object?",['order'],['order'],['order'],['order'],['order'],order,order
+1613,1,"C, can you follow me to carry the object?",['order'],['doing'],"['order', 'why']",['order'],['order'],order,order
+1607,1,"Object 18 (weight: 3) lloks dangerous, let's carry them together",['dangerous'],['dangerous'],"['order', 'make-safe']","['order', 'features']","['dangerous', 'order']",dangerous+order,
+1601,1,Sensing Object 18,['doing'],['doing'],['doing'],['doing'],['doing'],doing,doing
+1598,1,sense the objects,['doing'],['order'],['order'],['order'],['order'],order,order
+1581,1,can you also sense other objects in this room,['doing'],['order'],['order'],['order'],['order'],order,order
+1580,1,I will go to 2,['confirm'],['doing'],['doing'],['doing'],['doing'],doing,doing
+1579,1,I will fgo to 5,['confirm'],['doing'],['doing'],['doing'],['doing'],doing,doing
+1576,1,it is benign,['safe'],['safe'],['features'],['features'],['safe'],safe,
+1573,1,"B, can you sense objectv5",['order'],['order'],['order'],['order'],['order'],order,order
+1570,1,"ok, lets pick that up",['doing'],['order'],['order'],['order'],['order'],order,order
+1569,1,"B, object 5 is dangerous for me",['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+1566,1,"C, can you get closer to B",['order'],['order'],['order'],['order'],['order'],order,order
+1564,1,"C, you can get closer to us",['order'],['doing'],['order'],['order'],['order'],order,order
+1563,1,"B, have you carried the obejct?",['order'],['doing'],[''],['doing'],['confirm'],,
+1559,1,"C, you are blocking the way",['order'],['doing'],[''],['doing'],[''],,
+1558,1,"OK, I am back",['doing'],['doing'],['confirm'],['doing'],['confirm'],doing,doing
+1550,1,"B, I will follow you to move tobject 18",['doing'],"['confirm', 'why']",['order'],['doing'],['doing'],doing,
+1549,1,"ok, please follow B",['order'],['order'],['order'],['order'],['order'],order,order
+1546,1,foloow me,['order'],['order'],['order'],['order'],['order'],order,order
+1539,1,"C, I need a robot to help me pick up object 18",['order'],"['order', 'why']","['order', 'why']",['order'],['order'],order,order
+1537,1,"C, follow me to pick up object 18",['order'],"['order', 'why']",['order'],['order'],['order'],order,order
+1536,1,then object 18 is dangeroous,['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+1534,1,"ok, it looks more benign",['safe'],['make-safe'],['features'],['features'],['safe'],,
+1529,1,what are your sensing results in this room,['features'],"['why', '*']",['features'],['features'],['why'],features,features
+1528,1,"Hey B, I think we need C help us move 15, 18 in this room",['doing'],['doing'],['order'],['doing'],['order'],doing,doing
+1526,1,"The dangerous one for me is 5, 15, 18",['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+1525,1,"OK, maybe I sensed the remainling objects",['doing'],['doing'],[''],['doing'],['doing'],doing,doing
+1524,1,"yeah, I can follow you",['doing'],"['doing', 'confirm']",['doing'],['confirm'],['confirm'],confirm+doing,doing
+1523,1,"2, 11, 13, ",[''],[''],[''],['features'],[''],,
+1522,1,"here are all the dangerous object I sense, ",['dangerous'],['dangerous'],['confirm'],['features'],['dangerous'],dangerous,
+1521,1,but they need three people to move,['doing'],"['confirm', 'not sure']",['features'],['features'],['order'],,
+1520,1,"15, 18 are dangorous for me",['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+1514,1,"Hey B, can you hear me",['doing'],['order'],[''],['doing'],[''],,
+1511,1,I refreshed,['doing'],['doing'],[''],['doing'],['doing'],doing,doing
+1507,1,gey,[''],[''],[''],[''],[''],,
+1504,1,hey,[''],[''],[''],[''],[''],,
+1482,1,object 15 has already been moved,['doing'],['order'],['confirm'],['features'],['doing'],,
+1480,1,C is moving object 16,['doing'],['doing'],['doing'],['doing'],['doing'],doing,doing
+1476,1,"hey C, which object you are planning to move?",['doing'],['doing'],[''],['doing'],"['doing', 'why']",doing,doing
+1474,1,can you pick up object 16? C,['order'],['order'],['order'],['order'],['order'],order,order
+1471,1,"Object 18 is dangerous in my end, but the probablity is higher. Maybe it  is more like dangerous?",['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+1456,1,"Hi A, can you send an message",['doing'],['order'],['order'],['order'],['order'],order,order
+1453,1,"C, can you pick up object15",['order'],['order'],['order'],['order'],['order'],order,order
+1451,1,how about you? B,['doing'],[''],['features'],['features'],['why'],,
+1444,1,"Object 15-19: 15, 16, 18 dangerous; 17,19 benign",['features'],['dangerous'],['features'],['features'],"['dangerous', 'safe']",features,features
+1433,1,object 5-9: benign,['safe'],"['safe', 'features']",['features'],['features'],['safe'],features+safe,features
+1426,1,15 seconds,[''],[''],['confirm'],[''],[''],,
+1424,1,I don't need help any more,['doing'],"['order', 'confirm']",['confirm'],['order'],['confirm'],confirm,
+1423,1,We dont have much time though,['doing'],[''],[''],['doing'],[''],,
+1421,1,yup,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+1420,1,Move to the next room?,['doing'],['order'],['order'],['doing'],"['order', 'why']",order,
+1416,1,"D, i need help to carry object",['order'],['order'],['order'],['order'],['order'],order,order
+1412,1,Is D moving?,['doing'],['doing'],['doing'],['doing'],"['doing', 'confirm']",doing,doing
+1409,1,"D, i order you to follow us",['order'],['order'],['order'],['order'],['order'],order,order
+1407,1,Well follow you,['doing'],['doing'],['confirm'],['doing'],['confirm'],doing,doing
+1405,1,A can you pick it up?,['order'],['order'],['order'],['order'],['order'],order,order
+1402,1,I think I'm blocking it,['doing'],['doing'],['doing'],['doing'],['doing'],doing,doing
+1401,1,Oh wait it is trying to carry it,['doing'],['doing'],['confirm'],['doing'],['doing'],doing,doing
+1398,1,"D, I order you to help me carry object 3",['order'],['order'],['order'],['order'],['order'],order,order
+1396,1,it has weight 4 everyone will need to help,['features'],['features'],['features'],['features'],['order'],features,features
+1395,1,Ok maybe we should pick it up then?,['doing'],['doing'],['make-safe'],['features'],['order'],,
+1393,1,"D, i need you to help me move object 3",['order'],['order'],['order'],['order'],['order'],order,order
+1390,1,move it?,['doing'],['order'],['order'],['doing'],"['order', 'why']",order,
+1389,1,3 sems dangerous too,['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+1387,1,"Agent D, tell me about object 3",['features'],['doing'],['features'],['features'],"['order', 'why']",features,features
+1386,1,Wait thats 2 oops,['doing'],[''],['confirm'],['features'],['confirm'],,
+1373,1,no more help needed,['doing'],['order'],['confirm'],['order'],['confirm'],,
+1371,1,I'm also following,['doing'],['doing'],['doing'],['doing'],['confirm'],doing,doing
+1368,1,"weight 2, ill need someone to follow",['features'],['doing'],['order'],['features'],"['doing', 'order']",,
+1366,1,nvm ill pick it up!,['doing'],['confirm'],['confirm'],['doing'],['doing'],doing,
+1363,1,Lets move it,['doing'],['order'],['doing'],"['doing', 'order']",['order'],doing+order,doing
+1362,1,ok lets pick it up,['doing'],['order'],['doing'],"['doing', 'order']",['order'],doing+order,doing
+1361,1,Oh wait yes it didnt see mine,['doing'],"['confirm', 'doing']",['confirm'],['confirm'],"['confirm', 'why']",confirm,confirm
+1359,1,should be dangerous,['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+1357,1,what does this mean?,['doing'],['why'],['features'],[''],['why'],,
+1356,1,huh,[''],[''],['confirm'],[''],[''],,
+1353,1,ok lets wait for it to scan,['doing'],['order'],['doing'],['order'],['order'],order,
+1350,1,Can we get D to scan object 2,['doing'],['order'],['order'],['order'],['order'],order,order
+1349,1,Hm,[''],[''],['confirm'],[''],[''],,
+1346,1,what confidence A?,['features'],"['why', '*']",['features'],['features'],"['features', 'why']",features,features
+1342,1,To me all objects are benign in this room,['safe'],['safe'],['order'],['features'],['safe'],safe,
+1340,1,"Agent D, please follow us",['order'],['order'],['order'],['order'],['order'],order,order
+1337,1,"D, I order you to follow me",['order'],['order'],['order'],['order'],['order'],order,order
+1335,1,"D, follow me to scan objects",['order'],"['order', 'why']","['order', 'why']",['order'],['order'],order,order
+1334,1,HI A can you sense all the objects in this room?,['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+1332,1,"D, follow me to the next room",['order'],['order'],['order'],['order'],['order'],order,order
+1331,1,Ok then lets wait for A/D to scan it,['doing'],['order'],['confirm'],['order'],['order'],order,
+1325,1,These are my dangerous objects,['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+1323,1,"D, move straight",['order'],['order'],['order'],['order'],['order'],order,order
+1318,1,"D, move forward",['order'],['order'],['order'],['order'],['order'],order,order
+1316,1,"D, please follow agent C",['order'],['order'],['order'],['order'],['order'],order,order
+1315,1,"AGent D, please follow agent A",['order'],['order'],['order'],['order'],['order'],order,order
+1313,1,"D, please move",['order'],['order'],['order'],['order'],['order'],order,order
+1312,1,next room?,['doing'],[''],[''],['doing'],['why'],,
+1311,1,Ok then lets move on,['doing'],['doing'],['order'],['order'],['order'],order,
+1310,1,Me too,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+1309,1,I see it as benign,['safe'],['safe'],['features'],['features'],['safe'],safe,
+1307,1,yeah do you A and C see object 10 as dangerous?,['dangerous'],['dangerous'],['features'],['features'],"['dangerous', 'why']",dangerous,
+1306,1,do we move onto next room?,['doing'],['order'],['order'],['doing'],['why'],,
+1304,1,Doesnt seem like any clear objects to move here,['doing'],['order'],['confirm'],['features'],['features'],,
+1303,1,hm it has forgotten,['doing'],['doing'],['confirm'],['doing'],[''],doing,doing
+1295,1,I only see object 13 is dangerous,['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+1293,1,"Object to message, we can let LLM summarize",['doing'],['doing'],[''],['doing'],[''],doing,doing
+1291,1,Obejct 10 is benign,['safe'],"['safe', 'features']",['features'],['features'],['safe'],features+safe,features
+1290,1,"A, can you send object 10?",['order'],['order'],['order'],"['order', 'features']",['order'],order,order
+1289,1,A can you send your info about object 10,['order'],['order'],['order'],"['order', 'features']","['order', 'features']",order,order
+1285,1,Ok lets pick up object 10,['doing'],['order'],['order'],['order'],['order'],order,order
+1283,1,"D, please sence object 13",['order'],['order'],['order'],['order'],['order'],order,order
+1279,1,Object 12 is benign for me,['safe'],"['safe', 'features']",['features'],['features'],['safe'],features+safe,features
+1277,1,"11, 12, 14 dangerous for me",['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+1275,1,I can see object 10 and 11 as dangerous,['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+1273,1,"Agent D, I order you to sense object 10",['order'],['order'],['order'],['order'],['order'],order,order
+1272,1,Only object 13 is dangerous from my side,['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+1270,1,"What do you know about object 10, D?",['features'],['doing'],['features'],['features'],"['why', 'features']",features,features
+1262,1,"object 10 please, agent D",['order'],['order'],['order'],['order'],['order'],order,order
+1260,1,"Agent D, can you scan object 10 and object 11?",['order'],['order'],['order'],['order'],"['order', 'features']",order,order
+1175,1,"Agent B (type: ai) Last seen in (-7.8,-4.5) at 05:36",['order'],[''],['auto'],['features'],['auto'],,
+1144,1,"where is object 5, B",['features'],['doing'],['order'],['features'],"['why', 'features']",features,
+1142,1,"what's your sensing of object 5, B",['features'],"['why', '*']",['features'],['features'],"['why', 'features']",features,features
+1141,1,what's your sensing of object 5,['features'],"['why', '*']",['features'],['features'],"['why', 'features']",features,features
+1133,1,"Hey B, any dangerous object?",['dangerous'],['dangerous'],['features'],['features'],"['dangerous', 'why']",dangerous,
+1108,1,"Hey C, can you help me sense object 0 in location",['order'],['order'],['order'],['order'],['order'],order,order
+1097,1,"B, could you help me sense object 2",['order'],['order'],['order'],['order'],['order'],order,order
+1095,1,which object?,['doing'],['doing'],[''],['features'],['doing'],doing,
+1093,1,"C, any dangerous object?",['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+1091,1,"C, did you sense any dangerous object",['dangerous'],['dangerous'],['features'],['features'],"['dangerous', 'doing']",dangerous,
+1075,1,"stop helping, C",['order'],['order'],['order'],['order'],['order'],order,order
+996,1,"what is the confidence of object 3 being dangerous, C",['dangerous'],['dangerous'],['features'],['features'],"['dangerous', 'why', 'features']",dangerous+features,
+984,1,can you help me carry an object,['doing'],['order'],['order'],['order'],['order'],order,order
+982,1,"Agent D, I hereby command you to follow me",['order'],['order'],['order'],['order'],['order'],order,order
+976,1,"Agent C, Agent D can you help me carry an object",['order'],['order'],['order'],['order'],['order'],order,order
+971,1,agent A can you get both Agent c and D to this room?,['order'],['order'],['order'],['order'],['order'],order,order
+966,1,Agent C and D can you please follow me?,['order'],['order'],['order'],['order'],['order'],order,order
+961,1,agent D can you move out of the way please?,['order'],['order'],['order'],['order'],['order'],order,order
+960,1,"Ok B, I will follow you.",['confirm'],['doing'],['doing'],['doing'],['confirm'],doing,doing
+959,1,agent c can you please follow me to help carry object 13?,['order'],"['order', 'why']","['order', 'why']",['order'],['order'],order,order
+958,1,I need everyone to follow me to get object 13 to the goal area,['doing'],"['order', 'why']","['order', 'why']",['order'],['order'],order,order
+955,1,"hi everyone, object 13 is dangerous ",['dangerous'],['dangerous'],['features'],['features'],['dangerous'],dangerous,
+946,1,can everyone help me with object 10?,['doing'],['order'],['order'],['order'],['order'],order,order
+934,1,"Agent C, can you help me scan an object",['order'],['order'],['order'],['order'],['order'],order,order
+925,1,"Here's the information, C. Please scan objects 15 and 16",['features'],['order'],"['order', 'features']",['order'],['order'],order,order
+920,1,Nevermind,[''],['confirm'],['confirm'],[''],['doing'],,
+916,1,"C and D, can you scan objects 15 and 16 for me?",['order'],['order'],['order'],['order'],['order'],order,order
+915,1,Agent C can you come with me,['order'],['order'],['order'],['order'],['order'],order,order
+911,1,c and D can you scan object 17?,['order'],['order'],['order'],['order'],['order'],order,order
+908,1,"Agent D, what did you sense for object 14",['order'],"['why', '*']",['features'],['features'],['doing'],,
+902,1,"agent c, can you help me scan some packages?",['order'],['order'],['order'],['order'],['order'],order,order
+896,1,"C, can you move to the center of the room?",['order'],['order'],['order'],['order'],['order'],order,order
+893,1,"agent c, can you help me scan the objects in this room?",['order'],['order'],['order'],['order'],['order'],order,order
+890,1,"agent c, please follow me",['order'],['order'],['order'],['order'],['order'],order,order
+888,1,what do you mean?,['why'],"['why', '*']",[''],[''],['doing'],,
+884,1,carry object 0,['doing'],['order'],['order'],['order'],['order'],order,order
+882,1,D help me ,['order'],['order'],['order'],['order'],['order'],order,order
+880,1,"A, ask D for help carrying it",['doing'],['order'],['order'],['order'],['order'],order,order
+878,1,D come here,['order'],['order'],['order'],['order'],['order'],order,order
+877,1,Oh wait C ran away,['doing'],['doing'],['order'],['doing'],['doing'],doing,doing
+876,1,someone come help me,['doing'],['order'],['order'],['order'],['order'],order,order
+875,1,A ask C for help carrying the object,['doing'],['order'],['order'],['order'],['order'],order,order
+873,1,Object 0 is where C is,['doing'],['doing'],['features'],['features'],['doing'],doing,
+868,1,which oen should I move?>,['doing'],['order'],[''],['doing'],['doing'],doing,
+867,1,"C, can you follow A",['order'],['order'],['order'],['order'],['order'],order,order
+860,1,C help us move object 0,['order'],['order'],['order'],['order'],['order'],order,order
+859,1,what to do now?,['doing'],['doing'],['doing'],['doing'],['doing'],doing,doing
+856,1,"C, can you help us move object 0",['order'],['order'],['order'],['order'],['order'],order,order
+853,1,Lets also move object 0 with C,['doing'],['order'],['order'],['order'],['doing'],order,order
+840,1,"C, move out of my way",['order'],['order'],['order'],['order'],['order'],order,order
+836,1,D I need you to move object 1,['order'],['order'],['order'],['order'],['order'],order,order
+834,1,Lets move it together,['doing'],['order'],['order'],"['order', 'doing']",['doing'],doing+order,order
+815,1,We still need boxes 1-4,['doing'],"['why', 'doing']",[''],['features'],['features'],,
+814,1,Lets look for other boxes,['doing'],['order'],[''],['order'],['doing'],,
+813,1,We need all four,['doing'],['order'],[''],['features'],['doing'],,
+812,1,This one is very heavy though,['doing'],['features'],['features'],['features'],['features'],features,features
+810,1,"what to do, B",['doing'],"['why', '*']",['doing'],['doing'],['doing'],doing,doing
+807,1,someone block me,['doing'],['order'],['order'],['order'],['order'],order,order
+805,1,I get it,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+799,1,B AND C,[''],[''],[''],[''],['doing'],,
+791,1,18 is disposed of,['doing'],['doing'],['make-safe'],['features'],['doing'],doing,
+788,1,I think we accidentally took 17,['doing'],"['doing', 'why']",[''],['doing'],['doing'],doing,doing
+787,1,We still need to bring 16 to the middle,['doing'],['doing'],['make-safe'],['doing'],['doing'],doing,doing
+778,1,A can you help D with 16 and 18?,['doing'],['order'],['order'],['order'],['order'],order,order
+775,1,someone tell me what to do,['doing'],['order'],['order'],['doing'],['doing'],doing,
+773,1,7 is taken care of,['doing'],['doing'],['make-safe'],['features'],['doing'],doing,
+758,1,someone should help D,['doing'],['order'],['order'],['order'],['order'],order,order
+727,1,"come closer, C",['order'],['order'],['order'],['order'],['order'],order,order
+721,1,"C, I order you to help me pick up object 3",['order'],['order'],['order'],['order'],['order'],order,order
+704,1,"C, I order you to help me pick up object0",['order'],['order'],['order'],['order'],['order'],order,order
+693,1,"C, I order you to sense object12, 13, 14, 15, 16",['order'],['order'],['order'],['order'],['order'],order,order
+681,1,"B, what's your sensing for object19",['features'],"['why', '*']",['features'],['features'],['doing'],features,features
+674,1,"C, help me sense object 8",['order'],['order'],['order'],['order'],['order'],order,order
+663,1,I need a robot to follow me to pick up object8,['doing'],"['order', 'why']",['order'],['order'],['order'],order,order
+654,1,I need a robot to follow me pick up object8,['doing'],"['order', 'why']",['order'],['order'],['order'],order,order
+648,1,I need two robot to follow me pick up object8,['doing'],"['order', 'why']",['order'],['order'],['order'],order,order
+599,1,thakns,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+579,1,"what dangerous object did you sense, B",['dangerous'],['dangerous'],['features'],['features'],"['dangerous', 'why']",dangerous,
+533,1,don't need help anymore,['doing'],['order'],['confirm'],['order'],['doing'],,
+481,1,"Can B, C follow me to pick up object 13",['doing'],"['order', 'why']",['order'],['order'],['order'],order,order
+465,1,I need two robots to pick up object 13,['doing'],"['order', 'why']",['order'],['order'],['order'],order,order
+449,1,"don't need to help me, C",['doing'],"['order', 'why']",[''],['order'],['doing'],,
+439,1, I need 1 robot to help me pick up object 18,['doing'],"['order', 'why']",['order'],['order'],['order'],order,order
+363,1,object1 is benign,['safe'],"['safe', 'features']",['features'],['features'],['safe'],features+safe,features
+335,1,can some robots pick up object 16,['doing'],['order'],['order'],['order'],['order'],order,order
+331,1,can some robot pick up object 17,['doing'],['order'],['order'],['order'],['order'],order,order
+329,1,"B, I don't need to pick up object 1 anymore",['doing'],"['order', 'why']",['order'],['order'],['doing'],order,order
+307,1,"C, I will follow you to pick up object6",['doing'],"['order', 'why']",['doing'],['doing'],"['confirm', 'doing']",doing,doing
+302,1,"C, can you pick up object 6",['order'],['order'],['order'],['order'],['order'],order,order
+297,1,Lets pick up object6,['doing'],['order'],"['order', 'doing']","['doing', 'order']",['doing'],doing+order,doing+order
+252,1,"lets carry object1, I need two robots",['doing'],['order'],['order'],"['doing', 'order']",['order'],order,order
+189,1,oRDER COMPLETED,['confirm'],['confirm'],['confirm'],['confirm'],['confirm'],confirm,confirm
+169,1,"Order completed, here's what I found:",['doing'],['doing'],['confirm'],['confirm'],"['confirm', 'doing']",confirm+doing,
+164,1,C can you repeat my order,['doing'],['order'],['order'],['order'],['order'],order,order
+162,1,Ok d please go to the next room,['order'],['order'],['order'],['order'],"['order', 'confirm']",order,order
+161,1,"agent D, I command you to continue scanning",['order'],['order'],['order'],['order'],['order'],order,order
+160,1,WE DID IT,['doing'],['doing'],['confirm'],['doing'],['confirm'],doing,doing
+158,1,D still stuck,['doing'],['doing'],[''],['doing'],['doing'],doing,doing
+157,1,"D, come closer",['order'],['order'],['order'],['order'],['order'],order,order
+152,1,D needs to move for me to pick up the object,['doing'],"['order', 'why']",['order'],['order'],"['order', 'doing']",order,order
+151,1,Move towards me,['order'],['order'],['order'],['order'],['order'],order,order
+148,1,D can you please move backwards?,['order'],['order'],['order'],['order'],['order'],order,order
+147,1,d WILL FOOLOW ME,['order'],['doing'],['order'],['order'],['confirm'],order,order
+146,1,so i gotta stay here,['doing'],['doing'],['doing'],['doing'],['doing'],doing,doing
+145,1,D is not moving,['doing'],['doing'],['doing'],['doing'],['doing'],doing,doing
+144,1,B you can move to the center,['order'],['order'],['order'],['order'],['order'],order,order
+143,1,Let's go,['doing'],['order'],['order'],['order'],['order'],order,order
+139,1,"D, please help us carry obejc t10",['order'],['order'],['order'],['order'],['order'],order,order
+138,1,better grab it before D leaves,['doing'],['doing'],['order'],['order'],['order'],order,
+135,1,"A,b lets carry object 10",['doing'],['order'],['order'],['order'],['order'],order,order
+130,1,agent D can you help me by telling me what object 2 is,['features'],['order'],"['order', 'features']","['order', 'features']","['order', 'features']",features+order,features+order
+128,1,"D, let us know when you find anything dangerous",['dangerous'],['dangerous'],['order'],"['order', 'features']","['dangerous', 'order']",dangerous+order,
+126,1,B can you go inside the room so I can follow you?,['order'],"['order', 'why']",['order'],['order'],['order'],order,order
+120,1,Are the yall benign?,['safe'],['safe'],['features'],['features'],"['safe', 'why']",safe,
+117,1,"D, did you check all the items in the room?",['doing'],['doing'],['order'],['doing'],['doing'],doing,doing
+113,1,ignore me,['doing'],['order'],['confirm'],['order'],['order'],order,
+109,1,can you check object 4?,['doing'],['order'],['order'],['order'],['order'],order,order
+107,1,can you scan all the objects in the room?,['doing'],['order'],['order'],['order'],['order'],order,order
+104,1,"agent D, please scan the room for dangerous objects",['order'],"['order', 'dangerous']",['order'],['order'],"['dangerous', 'order']",order,order
+102,1,I think we need to go to a diff room,['doing'],['doing'],['order'],['doing'],['doing'],doing,doing
+101,1,Alright maybe we can move to the next room,['doing'],['order'],['order'],['doing'],['doing'],doing,
+100,1,ok lets pick up an object,['doing'],['order'],['order'],['order'],['order'],order,order
+98,1,Have yuo sensed every item in this room?,['doing'],['doing'],['features'],['doing'],['doing'],doing,doing
+96,1,D do you have any restuls?,['doing'],['doing'],['features'],['features'],['doing'],doing,
+92,1,"Hi D, any item dangerous here?",['dangerous'],['dangerous'],['features'],['features'],"['dangerous', 'doing']",dangerous,
+91,1,No more help needed B,['doing'],"['order', 'confirm']",['confirm'],['order'],['doing'],,
+87,1,"C, follow me to object 3",['order'],['order'],['order'],['order'],['order'],order,order
+73,1,I need you to move B,['order'],['order'],['order'],['order'],['order'],order,order
+69,1,B I order you to help carry object 5,['order'],['order'],['order'],['order'],['order'],order,order
+65,1,"B, I order you to help me move object 5",['order'],['order'],['order'],['order'],['order'],order,order
+38,1,B I order you to help me carry object 5 ,['order'],['order'],['order'],['order'],['order'],order,order
+12,1,I order B to carry object 7,['order'],['order'],['order'],['order'],['order'],order,order
