@@ -17,4 +17,5 @@ Codebook in markdown table format
 Example message entry and column names from a csv file
 
 "id	group_size	message	label	comment"
+
 "3591	52	Follow me	order	"
